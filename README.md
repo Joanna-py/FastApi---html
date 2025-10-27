@@ -22,6 +22,9 @@ git clone https://github.com/seu-usuario/api-alunos.git
 cd api-alunos
 pip install fastapi uvicorn jinja2
 
+
+---
+
 ▶️ Como Executar
 
 Execute o servidor localmente com o comando:
@@ -32,6 +35,10 @@ uvicorn main:app --reload
 Acesse no navegador:
 
 👉 http://127.0.0.1:8000
+
+
+---
+
 
 📂 Estrutura de Pastas
 api-alunos/
@@ -45,6 +52,10 @@ api-alunos/
 ├── static/               # Arquivos estáticos (CSS, JS, imagens)
 │
 └── README.md
+
+
+---
+
 
 🧠 Funcionalidades
 
